@@ -1,0 +1,1 @@
+Built an NLP framework to predict sentiment in financial headlines, comparing BoW and TF-IDF vectorization across Random Forest and Deep Neural Network (DNN) models to achieve a peak accuracy of ~79%.
